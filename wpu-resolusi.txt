@@ -1,5 +1,5 @@
 WPU RESOLUSI
 -Ini adalah kalimat pertama
 -Ini adalah kalimat Kedua
--Ini adalah kalimat Ketiga
 -Ini adalah kalimat keempat yang ditambahkan
+-Ini adalah kalimat kelima yang ditambahkan
